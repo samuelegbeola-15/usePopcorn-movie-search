@@ -1,5 +1,7 @@
 This is a Movie search React project that uses the OMDb API
 
+LIVE: https://use-popcorn-movie-search.vercel.app/
+
 The user can: 
 * type in a keyword to search
 * click on a movie of interest and view the full details of the movie
@@ -15,3 +17,4 @@ I implemented conditional rendering for both the movie search results and movie 
 
 I also used a useEffect hook to dynamically change the document.title property to reflect the name of the movie being viewed.
 
+You can view the hosted app here: https://use-popcorn-movie-search.vercel.app/
